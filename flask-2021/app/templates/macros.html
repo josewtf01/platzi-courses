@@ -1,0 +1,14 @@
+{% import 'bootstrap/wtf.html' as wtf%}
+
+{% macro render_favorite_books(book, delete_form,update_form) %}
+    <li class="list-group-item">
+      <span class="badge">Finish book: {{book.to_dict().read}}</span>
+        Title: {{book.to_dict().title}}
+        <button type="button" class="btn btn-light">
+          {{ wtf.quick_form(delete_form, action=url_for('delete',book_id=book.id)) }}
+        </button>
+        <button type="button" class="btn btn-light">
+          {{ wtf.quick_form(update_form, action=url_for('update',book_id=book.id,read=book.to_dict().read)) }}
+        </button>
+    </li>
+{% endmacro %}
