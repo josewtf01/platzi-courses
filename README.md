@@ -6,3 +6,5 @@ Courses of Platzi E-Learning platform
 [Backend nodejs and express 2021](https://github.com/josewtf01/platzi-courses/tree/main/backend-nodejs-expressjs-2021)
 
 [curso_de_python_lambdas_y_manejo_de_errores](https://github.com/josewtf01/platzi-courses/tree/main/curso-de-python-lambdas-y-manejo-de-errores)
+
+[curso-basico-de-python](https://github.com/josewtf01/platzi-courses/tree/main/curso-basico-de-python)
