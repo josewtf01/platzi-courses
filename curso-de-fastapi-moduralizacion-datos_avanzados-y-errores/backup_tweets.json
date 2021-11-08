@@ -1,0 +1,41 @@
+[
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa5",
+        "content": "string",
+        "created_at": "2021-11-07 17:48:03.379369",
+        "updated_at": "2021-11-07 23:48:15.555000+00:00",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "email": "user@example.com",
+            "first_name": "string",
+            "last_name": "string",
+            "birth_date": "2021-11-07"
+        }
+    },
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "content": "string2",
+        "created_at": "2021-11-07 17:48:03.379369",
+        "updated_at": "2021-11-07 23:48:15.555000+00:00",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "email": "user2@example.com",
+            "first_name": "string2",
+            "last_name": "string2",
+            "birth_date": "2021-11-07"
+        }
+    },
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+        "content": "string3",
+        "created_at": "2021-11-07 17:48:03.379369",
+        "updated_at": "2021-11-07 23:48:15.555000+00:00",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "email": "user3@example.com",
+            "first_name": "string3",
+            "last_name": "string3",
+            "birth_date": "2021-11-07"
+        }
+    }
+]
