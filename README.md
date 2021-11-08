@@ -12,3 +12,6 @@ Courses of Platzi E-Learning platform
 [curso profesional de python](https://github.com/josewtf01/platzi-courses/tree/main/curso-profesional-de-python)
 
 [curso de fastapi: fundamentos](https://github.com/josewtf01/platzi-courses/tree/main/curso-de-fastapi-fundamentos)
+
+
+[curso-de-fastapi-moduralizacion-datos_avanzados-y-errores](https://github.com/josewtf01/platzi-courses/tree/main/curso-de-fastapi-moduralizacion-datos_avanzados-y-errores)
